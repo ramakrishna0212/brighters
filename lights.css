@@ -1,0 +1,47 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: white;
+}
+.logo{
+    margin-top: -4%;
+    margin-left: 3%;
+}
+.barslide{
+    margin: 7.5%;
+    padding-left: 0%;
+    font-size: x-large;
+}
+.baroption {
+    font-size: 20px;
+    margin-top: -5%;
+    padding-left: 35%;
+    font-weight: 700;
+}
+.baroption a{
+    padding: 1px 16px;
+}
+.bs {
+    font-size: 18px;
+    margin-top: -22px;
+    padding-left: 89%;
+    font-weight: 213%;
+}
+.by{
+    padding-left: 15%;
+    margin-top: 5%;
+    font-size: 15px;
+}
+.lights{
+    width: 64%;
+    padding-left: 27%;
+    padding-top: 8%;
+}
+.lights img{
+    border: solid 1px black;
+}

@@ -1,0 +1,47 @@
+* {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-image: url("https://images.unsplash.com/photo-1682685796444-acc2f5c1b7b6?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.logo{
+    margin-top: -4%;
+    margin-left: 3%;
+}
+.barslide{
+    margin: 7.5%;
+    padding-left: 0%;
+    font-size: x-large;
+}
+.baroption {
+    font-size: 20px;
+    margin-top: -6%;
+    padding-left: 32%;
+    font-weight: 700;
+}
+.baroption a{
+    padding: 1px 16px;
+}
+hr{
+    width: 60%;
+    margin-left: 1%;
+}
+.bs {
+    font-size: 18px;
+    margin-top: -22px;
+    padding-left: 89%;
+    font-weight: 213%;
+}
+.by{
+    padding-left: 18%;
+    margin-top: 12%;
+    font-size: 100px;
+    font-family: sans-serif;
+    line-height: 1.16;
+    letter-spacing: 1.02px;
+    font-weight: 600;
+}
